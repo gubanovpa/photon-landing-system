@@ -1,0 +1,6 @@
+{
+  "eyebrow": "Contact or Subscribe",
+  "title": "Collect an email without redesigning the section later.",
+  "body": "The form is intentionally simple: email field, submit action, async status and success/error feedback.",
+  "submitLabel": "Get started"
+}

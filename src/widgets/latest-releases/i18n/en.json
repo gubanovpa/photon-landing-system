@@ -1,0 +1,25 @@
+{
+  "title": "Latest releases",
+  "cards": [
+    {
+      "title": "Where things stand with the Department of War",
+      "body": "A statement from Dario Amodei.",
+      "action": "Read the post"
+    },
+    {
+      "title": "Claude Sonnet 4.6",
+      "body": "Introducing our most capable Sonnet model yet with frontier performance across coding, agents, and professional work.",
+      "action": "Model details"
+    },
+    {
+      "title": "Claude is a space to think",
+      "body": "No ads. No sponsored content. Just genuinely helpful conversations.",
+      "action": "Read the post"
+    },
+    {
+      "title": "Design system elements update",
+      "body": "We shipped polished card, form, and navigation patterns to speed up production landing pages.",
+      "action": "View changelog"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "eyebrow": "MUI Landing Foundation",
+  "title": "Build a product landing that feels editorial, clear, and ready for scale.",
+  "body": "This starter keeps the shell polished while leaving enough room for your real data, backend auth, and production content strategy.",
+  "primaryAction": "Create account",
+  "secondaryAction": "See contact form",
+  "panelEyebrow": "Editorial landing shell",
+  "panelTitle": "Polished enough for demos, flexible enough for product work.",
+  "panelBody": "Swap copy, wire your backend and keep the overall composition intact.",
+  "stats": [
+    { "value": "1440px", "label": "Max content width" },
+    { "value": "2", "label": "Color modes" },
+    { "value": "3 -> 1", "label": "Adaptive content columns" }
+  ]
+}

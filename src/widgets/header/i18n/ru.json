@@ -1,0 +1,23 @@
+{
+  "brand": {
+    "name": "Northstar AI",
+    "tagline": "Основа корпоративного landing-приложения"
+  },
+  "nav": {
+    "home": "Главная",
+    "elements": "Элементы",
+    "backgrounds": "Фоны",
+    "capabilities": "Возможности",
+    "contact": "Контакты"
+  },
+  "actions": {
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти"
+  },
+  "menu": "Открыть навигацию",
+  "user": {
+    "guest": "Гостевой режим",
+    "signedInAs": "Вход выполнен: {{email}}"
+  }
+}

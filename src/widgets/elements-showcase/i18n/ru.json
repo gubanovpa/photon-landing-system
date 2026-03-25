@@ -1,0 +1,90 @@
+{
+  "intro": {
+    "eyebrow": "Демо UI",
+    "title": "Elements: типографика и компоненты",
+    "body": "Страница демонстрирует типографику и базовые MUI-компоненты в рамках текущей дизайн-системы, включая поддержку светлой и тёмной темы."
+  },
+  "sections": {
+    "typography": {
+      "title": "Типографика"
+    },
+    "buttons": {
+      "title": "Кнопки"
+    },
+    "forms": {
+      "title": "Формы и управление"
+    },
+    "feedback": {
+      "title": "Обратная связь и загрузка"
+    },
+    "dataDisplay": {
+      "title": "Отображение данных"
+    },
+    "navigationAndSurfaces": {
+      "title": "Навигация и поверхности"
+    }
+  },
+  "typography": {
+    "h1": "H1. Корпоративный заголовок первого уровня",
+    "h2": "H2. Заголовок секции",
+    "h3": "H3. Подзаголовок для раздела",
+    "h4": "H4. Локальный заголовок блока",
+    "h5": "H5. Средний заголовок",
+    "h6": "H6. Компактный заголовок",
+    "subtitle1": "Subtitle1. Подпись для важных акцентов",
+    "subtitle2": "Subtitle2. Вторичный подзаголовок",
+    "body1": "Body1. Основной текст абзаца для длинного описания возможностей платформы.",
+    "body2": "Body2. Вторичный текст, который поддерживает основной контент и поясняет детали.",
+    "caption": "Caption. Подпись к элементу интерфейса",
+    "overline": "Overline. Маркер категории"
+  },
+  "buttons": {
+    "primary": "Primary",
+    "secondary": "Outlined",
+    "ghost": "Text",
+    "accent": "Secondary"
+  },
+  "forms": {
+    "name": "Имя",
+    "namePlaceholder": "Введите имя",
+    "email": "Email",
+    "emailPlaceholder": "name@company.com",
+    "selectLabel": "Пакет",
+    "option1": "Starter",
+    "option2": "Business",
+    "option3": "Enterprise",
+    "sliderLabel": "Уровень кастомизации",
+    "checkbox": "Принять условия",
+    "switch": "Включить уведомления",
+    "radioLabel": "Тариф",
+    "radioStarter": "Starter",
+    "radioPro": "Pro"
+  },
+  "feedback": {
+    "success": "Успех: данные сохранены и синхронизированы.",
+    "warning": "Внимание: проверьте обязательные поля перед отправкой."
+  },
+  "dataDisplay": {
+    "chipDefault": "Default",
+    "chipPrimary": "Primary",
+    "chipSecondary": "Secondary",
+    "list1Title": "Модульная архитектура",
+    "list1Body": "Слои app/pages/widgets/features/entities/shared разделены по ответственности.",
+    "list2Title": "Единый стиль",
+    "list2Body": "Компоненты используют токены темы и глобальные MUI-overrides."
+  },
+  "navigationAndSurfaces": {
+    "tabOne": "Overview",
+    "tabTwo": "Specs",
+    "tabThree": "Docs",
+    "tabOneContent": "Вкладки демонстрируют навигацию и переключение контента.",
+    "tabTwoContent": "Используйте этот шаблон для документации компонентов и UI-guide.",
+    "tabThreeContent": "Раздел легко расширяется под внутреннюю дизайн-систему.",
+    "cardTitle": "Карточка компонента",
+    "cardBody": "Карточка наследует тему, типографику и отступы без ручного дублирования стилей.",
+    "cardAction1": "Подробнее",
+    "cardAction2": "Действие",
+    "accordionTitle": "Accordion: раскрываемый блок",
+    "accordionBody": "Компонент полезен для FAQ, техописаний и крупных разделов с дополнительными деталями."
+  }
+}

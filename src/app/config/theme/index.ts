@@ -1,0 +1,1 @@
+export { getProjectThemeOptions } from './projectTheme';

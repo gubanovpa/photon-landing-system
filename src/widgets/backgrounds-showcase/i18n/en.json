@@ -1,0 +1,101 @@
+{
+  "intro": {
+    "eyebrow": "Theme Presets",
+    "title": "Background presets collected on a single page.",
+    "body": "This view shows the reusable background utilities from the default theme, so you can compare shells, panels, glass layers, warm surfaces, and the app body backdrop in one place."
+  },
+  "bodySample": {
+    "eyebrow": "App background",
+    "title": "The page-level body backdrop stays separate from widget surfaces.",
+    "body": "Use the body background for the application canvas and keep cards, shells, and glass panels on reusable surface presets.",
+    "token": "getBodyBackground(mode)",
+    "previewTitle": "Body background preview",
+    "previewBody": "This block renders the same backdrop function used by MuiCssBaseline for the application body."
+  },
+  "generalSamples": {
+    "header": {
+      "token": "Header",
+      "title": "Header",
+      "body": "Sticky application chrome that sits above the page canvas and uses the app-glass treatment.",
+      "caption": "Sticky app chrome",
+      "chrome": "Navigation"
+    }
+  },
+  "groups": {
+    "general": {
+      "eyebrow": "General",
+      "title": "General surfaces for the app canvas and global layout chrome.",
+      "body": "Use this group to inspect the body backdrop and the main application wrappers that appear across the whole site, including header and footer."
+    },
+    "primary": {
+      "eyebrow": "Primary",
+      "title": "Primary adaptive surfaces for shared containers.",
+      "body": "These mode-aware presets are the main flexible layers for floating containers, glass panels, and reusable chrome that should adapt between light and dark schemes."
+    },
+    "secondary": {
+      "eyebrow": "Secondary",
+      "title": "Secondary adaptive surfaces for section inserts and quiet panels.",
+      "body": "Use these tint presets for inner section panels, supportive inserts, and lighter emphasis blocks that should still adapt to the active color scheme."
+    },
+    "special": {
+      "eyebrow": "Special",
+      "title": "Special fixed-tone surfaces for expressive sections and feature blocks.",
+      "body": "These fixed-color presets are best for editorial shells, warm sections, and deliberate showcase surfaces where the tone should stay stable regardless of mode."
+    }
+  },
+  "sampleTokenLabel": "Theme token",
+  "samples": {
+    "appGlass": {
+      "title": "App glass",
+      "body": "Sticky or floating chrome with blur and a restrained translucent fill."
+    },
+    "panelDark": {
+      "title": "Dark panel",
+      "body": "Dense dark surface for hero-side cards and compact content panels."
+    },
+    "shellDark": {
+      "title": "Dark shell",
+      "body": "High-contrast showcase surface for large editorial sections."
+    },
+    "shellLight": {
+      "title": "Light shell",
+      "body": "Soft warm shell for bright feature blocks with illustration overlays."
+    },
+    "tint": {
+      "title": "Tint",
+      "body": "Light gradient wash for quiet cards that need only a small lift from the page."
+    },
+    "tintSoft": {
+      "title": "Tint soft",
+      "body": "Even lighter version for helper panels and secondary informational blocks."
+    },
+    "tintStrong": {
+      "title": "Tint strong",
+      "body": "Brighter inner panel tint for contrast inside dark showcase shells."
+    },
+    "glassSubtle": {
+      "title": "Glass subtle",
+      "body": "Low-opacity fill for stat rows and compact overlays on dark surfaces."
+    },
+    "glass": {
+      "title": "Glass adaptive",
+      "body": "Mode-aware glass panel that works on both dark and light compositions."
+    },
+    "glassLight": {
+      "title": "Glass light",
+      "body": "Bright translucent panel with blur, useful over light showcase art."
+    },
+    "warm": {
+      "title": "Warm section",
+      "body": "Broad warm section background for release or news-style blocks."
+    },
+    "warmMuted": {
+      "title": "Warm muted",
+      "body": "Muted warm card surface that sits inside the broader warm section."
+    },
+    "footer": {
+      "title": "Footer",
+      "body": "Deep footer backdrop with a more compact dark gradient than the main shells."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "Northstar AI"
+  },
+  "headline": "Масштабируемый каркас landing-страницы на React, MUI, Redux Toolkit и Context-провайдерах.",
+  "columns": [
+    {
+      "title": "Платформа",
+      "links": ["Каркас landing", "Система тем", "Dummy auth"]
+    },
+    {
+      "title": "Контент",
+      "links": ["Hero-блок", "Трёхколоночная сетка", "Lead capture"]
+    },
+    {
+      "title": "Разработка",
+      "links": ["Слойная архитектура", "Готовые маршруты", "Расширяемый store"]
+    },
+    {
+      "title": "Дальше",
+      "links": ["Интеграция API", "CMS-контент", "Продакшн-копирайт"]
+    }
+  ],
+  "copyright": "Шаблон Northstar AI. Замените dummy-логику на реальные интеграции."
+}

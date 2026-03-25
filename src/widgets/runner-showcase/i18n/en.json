@@ -1,0 +1,14 @@
+{
+  "main": {
+    "eyebrow": "Performance story",
+    "title": "Run campaigns that stay readable, bold, and scalable.",
+    "accent": "faster",
+    "body": "This section demonstrates the 2+1 column composition with artwork on the right as a background layer, so text can overlap without losing readability.",
+    "primaryAction": "Launch section",
+    "secondaryAction": "View docs",
+    "cardEyebrow": "Visual system",
+    "cardTitle": "2 + 1 grid shell",
+    "cardBody": "Left content spans two columns, side panel takes one column, and the runner image stays in the back layer.",
+    "imageAlt": "Runner illustration"
+  }
+}

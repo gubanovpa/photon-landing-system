@@ -1,0 +1,13 @@
+{
+  "eyebrow": "Application shell",
+  "title": "Header, content and footer are already structured for a corporate homepage.",
+  "body": "The header collapses into a burger menu, the body keeps generous spacing, and the footer is ready for product and company links.",
+  "highlights": [
+    "Sticky glass header with desktop and mobile navigation",
+    "Large editorial hero paired with a dark showcase panel",
+    "MUI-based components with light and dark theme parity"
+  ],
+  "panelTitle": "Ready for integrations",
+  "panelBody": "Swap the mocked submit and auth handlers for real API calls without rewriting the layout.",
+  "actionLabel": "See contact form"
+}

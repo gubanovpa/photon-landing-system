@@ -1,0 +1,22 @@
+{
+  "shell": {
+    "eyebrow": "Auth Flow"
+  },
+  "login": {
+    "title": "Log in to preview the authenticated header state.",
+    "body": "This is a dummy sign-in screen. It stores a lightweight profile locally and updates the header instantly.",
+    "submit": "Sign in",
+    "alternate": "Need an account? Register"
+  },
+  "register": {
+    "title": "Create a dummy account for the landing flow.",
+    "body": "Registration is mocked, but the page structure and user state wiring are production-friendly.",
+    "submit": "Create account",
+    "alternate": "Already have an account? Log in"
+  },
+  "fields": {
+    "name": "Full name",
+    "email": "Email",
+    "password": "Password"
+  }
+}

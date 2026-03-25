@@ -1,0 +1,22 @@
+{
+  "eyebrow": "Capabilities",
+  "title": "A two-column stack that stays balanced and collapses cleanly on smaller screens.",
+  "items": [
+    {
+      "title": "Modular UI Composition",
+      "body": "Pages stay focused on composition while widgets and features keep layout and interaction isolated."
+    },
+    {
+      "title": "Theme and Session Context",
+      "body": "The shell includes persistent light and dark modes plus fake user session state for login and register flows."
+    },
+    {
+      "title": "Lead Capture Flow",
+      "body": "The contact form already dispatches through Redux Toolkit, so the backend contract can be connected later."
+    },
+    {
+      "title": "Flexible section grid",
+      "body": "Blocks can be recomposed for landing and corporate pages without rewriting core UI primitives."
+    }
+  ]
+}

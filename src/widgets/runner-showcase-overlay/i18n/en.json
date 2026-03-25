@@ -1,0 +1,12 @@
+{
+  "eyebrow": "Overlay composition",
+  "title": "Copy this pattern when artwork should break the frame without breaking readability.",
+  "accent": "cleanly",
+  "body": "There is no outer wrapper card in this variant. The image is absolutely positioned at center Y, can go beyond section bounds, and does not affect layout dimensions.",
+  "primaryAction": "Use this layout",
+  "secondaryAction": "Read guide",
+  "cardEyebrow": "Layering",
+  "cardTitle": "Text-first stack",
+  "cardBody": "Foreground content remains readable while the runner illustration stays in the background layer.",
+  "imageAlt": "Runner overlay illustration"
+}

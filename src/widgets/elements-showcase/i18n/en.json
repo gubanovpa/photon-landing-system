@@ -1,0 +1,90 @@
+{
+  "intro": {
+    "eyebrow": "UI Demo",
+    "title": "Elements: typography and components",
+    "body": "This page showcases typography and core MUI components under the current design system, including light and dark theme support."
+  },
+  "sections": {
+    "typography": {
+      "title": "Typography"
+    },
+    "buttons": {
+      "title": "Buttons"
+    },
+    "forms": {
+      "title": "Forms and controls"
+    },
+    "feedback": {
+      "title": "Feedback and loading"
+    },
+    "dataDisplay": {
+      "title": "Data display"
+    },
+    "navigationAndSurfaces": {
+      "title": "Navigation and surfaces"
+    }
+  },
+  "typography": {
+    "h1": "H1. Primary corporate heading",
+    "h2": "H2. Section headline",
+    "h3": "H3. Subsection heading",
+    "h4": "H4. Local content heading",
+    "h5": "H5. Medium heading",
+    "h6": "H6. Compact heading",
+    "subtitle1": "Subtitle1. Supporting emphasis text",
+    "subtitle2": "Subtitle2. Secondary subtitle",
+    "body1": "Body1. Main paragraph text for longer product and platform descriptions.",
+    "body2": "Body2. Secondary paragraph text used for additional details.",
+    "caption": "Caption. Context label",
+    "overline": "Overline. Category marker"
+  },
+  "buttons": {
+    "primary": "Primary",
+    "secondary": "Outlined",
+    "ghost": "Text",
+    "accent": "Secondary"
+  },
+  "forms": {
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "name@company.com",
+    "selectLabel": "Plan",
+    "option1": "Starter",
+    "option2": "Business",
+    "option3": "Enterprise",
+    "sliderLabel": "Customization level",
+    "checkbox": "Accept terms",
+    "switch": "Enable notifications",
+    "radioLabel": "Tier",
+    "radioStarter": "Starter",
+    "radioPro": "Pro"
+  },
+  "feedback": {
+    "success": "Success: data has been saved and synchronized.",
+    "warning": "Warning: validate required fields before submission."
+  },
+  "dataDisplay": {
+    "chipDefault": "Default",
+    "chipPrimary": "Primary",
+    "chipSecondary": "Secondary",
+    "list1Title": "Modular architecture",
+    "list1Body": "App, pages, widgets, features, entities, and shared are split by responsibilities.",
+    "list2Title": "Unified styling",
+    "list2Body": "Components consume theme tokens and global MUI overrides."
+  },
+  "navigationAndSurfaces": {
+    "tabOne": "Overview",
+    "tabTwo": "Specs",
+    "tabThree": "Docs",
+    "tabOneContent": "Tabs demonstrate navigational layout and content switching.",
+    "tabTwoContent": "Use this pattern for component documentation and internal UI guides.",
+    "tabThreeContent": "The section can be extended for your design system scale.",
+    "cardTitle": "Component card",
+    "cardBody": "The card inherits theme, typography, and spacing without duplicated one-off styles.",
+    "cardAction1": "Details",
+    "cardAction2": "Action",
+    "accordionTitle": "Accordion: expandable section",
+    "accordionBody": "Useful for FAQ blocks, technical notes, and long content with progressive disclosure."
+  }
+}

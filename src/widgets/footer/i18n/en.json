@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "Northstar AI"
+  },
+  "headline": "A scalable landing skeleton on React, MUI, Redux Toolkit and Context providers.",
+  "columns": [
+    {
+      "title": "Platform",
+      "links": ["Landing shell", "Theme system", "Dummy auth"]
+    },
+    {
+      "title": "Content",
+      "links": ["Hero section", "Three-column grid", "Lead capture"]
+    },
+    {
+      "title": "Developer Flow",
+      "links": ["Layered architecture", "Ready-to-wire routes", "Expandable store"]
+    },
+    {
+      "title": "Next Steps",
+      "links": ["API integration", "CMS content", "Production copy"]
+    }
+  ],
+  "copyright": "Northstar AI template. Replace dummy logic with real integrations."
+}
